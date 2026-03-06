@@ -1,5 +1,5 @@
 # Hi, I'm Hazar Kağan Elbeyli 👋
-
+.NET Backend Developer | Angular | AI & Data Engineering MSc
 Software Developer working with **.NET, Angular and modern backend technologies**.
 
 I currently develop monitoring and control software for industrial systems, focusing on real-time data processing, backend services and scalable web applications.
@@ -44,7 +44,6 @@ I currently develop monitoring and control software for industrial systems, focu
 
 **Industrial Communication**
 - Modbus TCP
----
 
 ## 🚀 Featured Projects
 
@@ -90,6 +89,6 @@ Areas of interest:
 
 ## 📫 Contact
 
-Email: elbeylihazar@gmail.com  
-LinkedIn: linkedin.com/in/hazar-kağan-elbeyli  
-GitHub: github.com/elbeylihazar
+📧 elbeylihazar@gmail.com  
+🔗 linkedin.com/in/hazar-kağan-elbeyli  
+💻 github.com/elbeylihazar
