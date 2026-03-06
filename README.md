@@ -28,6 +28,13 @@ I currently develop monitoring and control software for industrial systems, focu
 - MongoDB
 - Redis
 
+**Data & AI Tools**
+- Python
+- Pandas
+- NumPy
+- Data Analysis
+- Machine Learning fundamentals
+
 **Tools**
 - Docker
 - RabbitMQ
@@ -37,7 +44,6 @@ I currently develop monitoring and control software for industrial systems, focu
 
 **Industrial Communication**
 - Modbus TCP
-
 ---
 
 ## 🚀 Featured Projects
