@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi, I'm Hazar Kağan Elbeyli 👋
 
-<!--
-**elbeylihazar/elbeylihazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer working with **.NET, Angular and modern backend technologies**.
 
-Here are some ideas to get you started:
+I currently develop monitoring and control software for industrial systems, focusing on real-time data processing, backend services and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 MSc in Artificial Intelligence and Data Engineering – Ankara University
+
+---
+
+## 💻 Tech Stack
+
+**Backend**
+- .NET
+- ASP.NET Core
+- Web API
+- Entity Framework
+- REST API
+
+**Frontend**
+- Angular
+- TypeScript
+- HTML
+- CSS
+
+**Databases**
+- MSSQL
+- MongoDB
+- Redis
+
+**Tools**
+- Docker
+- RabbitMQ
+- Git
+- Jira
+- Bitbucket
+
+**Industrial Communication**
+- Modbus TCP
+
+---
+
+## 🚀 Featured Projects
+
+### SCADA Monitoring System
+Industrial monitoring system built with **.NET and Angular** for real-time device monitoring.
+
+Features:
+- Real-time telemetry collection via **Modbus TCP**
+- Web dashboards for system monitoring
+- Backend services using **ASP.NET Core**
+
+---
+
+### Expense Tracking Management System
+Expense management system developed using **.NET Core and Angular**.
+
+Features:
+- Expense submission and approval workflows
+- Manager reporting system
+- Message queue integration with **RabbitMQ**
+
+---
+
+### Pokemon Review API
+RESTful Web API built with **ASP.NET Core**.
+
+Features:
+- CRUD operations
+- Entity Framework integration
+- Review and rating system
+
+---
+
+## 📫 Contact
+
+Email: elbeylihazar@gmail.com  
+LinkedIn: linkedin.com/in/hazar-kağan-elbeyli  
+GitHub: github.com/elbeylihazar
