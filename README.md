@@ -78,6 +78,16 @@ Features:
 
 ---
 
+## 🎓 Academic Focus
+
+Currently pursuing a Master's degree in Artificial Intelligence and Data Engineering.
+
+Areas of interest:
+
+- Data Analysis
+- Machine Learning
+- Industrial Data Systems
+
 ## 📫 Contact
 
 Email: elbeylihazar@gmail.com  
